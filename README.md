@@ -1,3 +1,7 @@
+# Preview
+
+(welcome)[https://k1n9gg07.github.io/vue-auth-dummyjson/]
+
 # VueAuth — Практическая работа №2 (Figma Redesign)
 
 SPA-приложение на Vue 3, реализованное в точном соответствии с предоставленным дизайн-макетом из Figma.
