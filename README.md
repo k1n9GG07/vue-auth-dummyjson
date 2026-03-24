@@ -1,6 +1,7 @@
 # Preview
+  ⭣ ⭣ ⭣
 
-(welcome)[https://k1n9gg07.github.io/vue-auth-dummyjson/]
+[Welcome](https://k1n9gg07.github.io/vue-auth-dummyjson/)
 
 # VueAuth — Практическая работа №2 (Figma Redesign)
 
